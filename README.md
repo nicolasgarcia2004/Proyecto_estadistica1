@@ -53,7 +53,7 @@ Cada sección incluye su respectivo análisis e interpretación de los resultado
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/nicolasgarcia2004/Proyecto_estadistica1.git
+   git clone https://github.com/nicolasgarcia2004/Proyecto_estadistica1_analisis_accidentes.git
    ```
 2. Abrir el archivo `Proyectoestadistica1.ipynb` en Google Colab o Jupyter Notebook.
 3. Ejecutar las celdas en orden.
