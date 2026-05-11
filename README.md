@@ -6,14 +6,6 @@ Este repositorio contiene el proyecto final de la asignatura **Estadística 1** 
 
 El objetivo del proyecto es aplicar los conceptos estadísticos vistos en clase para analizar datos reales de accidentes de tráfico, identificando patrones, factores de riesgo y tendencias que puedan ser útiles para la toma de decisiones en seguridad vial.
 
-## Autores
-
-| Nombre | Código |
-|--------|--------|
-| Harver Alejandro Sierra García | 2204124 |
-| Javier Alejandro Silva Murillo | 2211860 |
-| Nicolas Esteban Garcia Tamayo | 2211233 |
-
 ## Dataset
 
 El dataset utilizado fue obtenido de Kaggle y contiene registros de accidentes de tráfico con múltiples variables tanto cualitativas como cuantitativas.
